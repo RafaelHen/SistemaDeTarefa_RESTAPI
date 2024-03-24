@@ -17,6 +17,6 @@
 #### Objeto com os atribuitos das minhas entidades.
 ![image](https://github.com/RafaelHen/SistemaDeTarefa_RESTAPI/assets/48704686/2759c205-694e-47ca-9790-3b9f581fb011)
 
-## Serive
+## Service
 #### Classe com assinatuda da minha interface IUsuarioRepositorio com os metódos POST,GET,UPDATE,DELETE.
 ![image](https://github.com/RafaelHen/SistemaDeTarefa_RESTAPI/assets/48704686/dfff6dd5-656f-4566-828d-ab29e138f95d)
